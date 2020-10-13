@@ -1,3 +1,7 @@
+<p align="center">
+   <img width="300px" src="https://github.com/GabrielMLV/GabrielMLV/blob/master/developer.gif" alt="Imagem developer" />
+</p>
+<br>
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">Addicted to any type of technology, venturing into the back-end using Javascript</h3>
 
