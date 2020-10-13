@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="300px" src="https://github.com/GabrielMLV/GabrielMLV/blob/master/developer.gif" alt="Imagem developer" />
+   <img width="300px" src="https://github.com/GhostDovahkiin/GhostDovahkiin/blob/master/developer.gif" alt="Imagem developer" />
 </p>
 <br>
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
