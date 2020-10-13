@@ -6,7 +6,8 @@
 
 <div style="text-align:center;">
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdovahkiin&layout=compact" alt="ghostdovahkiin" /></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" /></p>
+   
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" /></p>
 </div>
 
 - 🔭 I’m currently working at [Editora UFPB](https://github.com/edufpb)
