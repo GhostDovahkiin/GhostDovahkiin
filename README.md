@@ -5,8 +5,8 @@
 <h4 align="center">Addicted to any type of technology, venturing into the back-end using Javascript</h4>
 
 <div style="text-align:center;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdovahkiin&hide=html,css&langs_count=5" alt="ghostdovahkiin" />
-   <img src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdovahkiin&hide=html,css&langs_count=5&theme=dark" alt="ghostdovahkiin" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true&theme=dark" alt="ghostdovahkiin" />
 </div>
 
 - 🔭 I’m currently working at [Editora UFPB](https://github.com/edufpb)
