@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="200px" src="https://github.com/GhostDovahkiin/GhostDovahkiin/blob/master/developer.gif" alt="Imagem developer" />
+   <img width="200px" src="https://github.com/GhostDovahkiin/GhostDovahkiin/blob/master/developer-dribble.gif" alt="Imagem developer" />
 </p>
 <h2 align="center">Hi 👋, I'm Pedro Henrique</h2>
 <h4 align="center">Addicted to any type of technology, venturing into the back-end using Javascript</h4>
