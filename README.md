@@ -9,7 +9,8 @@
    
    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" /></p>
 </div>
-<hr>
+</br>
+</hr>
 
 - 🔭 I’m currently working at [Editora UFPB](https://github.com/edufpb)
 
