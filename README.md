@@ -2,24 +2,24 @@
    <img width="400px" src="https://github.com/GhostDovahkiin/GhostDovahkiin/blob/master/developer-dribbble.gif" alt="Imagem developer" />
 </p>
 <h2 align="center">Hi 👋, I'm Pedro Henrique</h2>
-<h4 align="center">Addicted to any type of technology, venturing into the back-end using Javascript</h4>
+<h4 align="center">Addicted to any type of technology, venturing into the back-end using SpringBoot</h4>
 
 <div style="text-align:center;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdovahkiin&hide=html,css&langs_count=5" alt="ghostdovahkiin" />
    <img src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" />
 </div>
 
-- 🔭 I’m currently working at [Editora UFPB](https://github.com/edufpb)
+- 🔭 I’m currently working at [Phoebus](https://www.paystore.com.br/pt) + [Editora UFPB](https://github.com/edufpb)
 
-- 🌱 I’m currently learning **GraphQL, Wordpress and Angular**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **JS Stack**
+- 👯 I’m looking to collaborate on **Java Stack**
 
 - 🤝 I’m looking for help with **C/I and Docker**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/GhostDovahkiin)
 
-- 💬 Ask me about **Node.JS**
+- 💬 Ask me about **Node.JS/Spring**
 
 - 📫 How to reach me **pedro.sousa@dcx.ufpb.br**
 
