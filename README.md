@@ -9,7 +9,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" />
 </div>
 
-- 🔭 I’m currently working at [Phoebus](https://www.paystore.com.br/pt) + [Editora UFPB](https://github.com/edufpb)
+- 🔭 I’m currently working at [Phoebus](https://www.paystore.com.br/pt) as Senior Trainee
 
 - 🌱 I’m currently learning **Spring Boot**
 
