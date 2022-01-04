@@ -9,9 +9,9 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" />
 </div>
 
-- 🔭 I’m currently working at [WiPro](https://www.wipro.com/pt-BR/overview/) as Junior Java Developer
+- 🔭 I’m currently working at [IBM Consulting](https://www.ibm.com/consulting/) as Junior Application Developer
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** + **HCL Technologies**
 
 - 👯 I’m looking to collaborate on **Java Stack**
 
