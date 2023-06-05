@@ -9,9 +9,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ghostdovahkiin&show_icons=true" alt="ghostdovahkiin" />
 </div>
 
-- 🔭 I’m currently working at [IBM Consulting](https://www.ibm.com/consulting/) as Junior Application Developer
-
-- 🌱 I’m currently learning **Spring Boot** + **HCL Technologies**
+- 🔭 I’m currently working at [IBM Consulting](https://www.ibm.com/consulting/) as Application Developer
 
 - 👯 I’m looking to collaborate on **Java Stack**
 
@@ -19,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/GhostDovahkiin)
 
-- 💬 Ask me about **Node.JS/Spring**
+- 💬 Ask me about **Java/Node.JS/Spring**
 
-- 📫 How to reach me **pedro.sousa@dcx.ufpb.br**
+- 📫 How to reach me **phenrique615@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIN](https://www.linkedin.com/in/p3dr0h3n/)
 
