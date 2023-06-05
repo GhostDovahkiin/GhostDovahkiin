@@ -27,6 +27,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/p3dr0h3n/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="p3dr0h3n/" height="30" width="40" /></a>
-<a href="https://instagram.com/phenriquesousa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="phenriquesousa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/p3dr0h3n/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" alt="p3dr0h3n/" height="30" width="40" /></a>
+<a href="https://instagram.com/phenriquesousa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" alt="phenriquesousa" height="30" width="40" /></a>
 </p>
