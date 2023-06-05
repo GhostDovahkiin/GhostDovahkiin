@@ -2,7 +2,7 @@
    <img width="400px" src="https://github.com/GhostDovahkiin/GhostDovahkiin/blob/master/developer-dribbble.gif" alt="Imagem developer" />
 </p>
 <h2 align="center">Hi 👋, I'm Pedro Henrique</h2>
-<h4 align="center">Addicted to any type of technology, venturing into the back-end using SpringBoot</h4>
+<h4 align="center">Addicted to any type of technology, venturing into coding world using Java</h4>
 
 <div style="text-align:center;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdovahkiin&hide=html,css&langs_count=5" alt="ghostdovahkiin" />
